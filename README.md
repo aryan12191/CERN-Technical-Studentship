@@ -2,8 +2,7 @@
 The job opening can be found on the official website of CERN Careers Page by [clicking here](https://careers.smartrecruiters.com/CERN/tech) 
 
 ## Required Qualifications 
-In order to qualify for a place in the program you will need to meet the following requirements:
-
+In order to qualify for a place in the program you will need to meet t
 -   You are a **national of a [CERN Member or Associate Member State](http://home.cern/about/member-states)**.
 -   You have completed **at least 18 months of your undergraduate studies** (Bachelor's or Master’s) at the time of the next student selection round taking place.
 -   You **remain registered as a full-time student** during the internship.
